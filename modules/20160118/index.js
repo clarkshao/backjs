@@ -1,6 +1,6 @@
 var setting = {
-    '0118':true,
-    'index':false,
+    'index':true,
+    'step0':false,
     'step1':true,//可忽略
     'step2':false,
     'step3':true//可忽略

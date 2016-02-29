@@ -7,9 +7,11 @@ Object.defineProperty(exports, "__esModule", {
  * Created by clark on 16/2/23.
  */
 var setting = {
-    '0118': false,
     'index': true,
-    'result': true
+    'step0': false,
+    'step1': true, //可忽略
+    'step2': false,
+    'step3': true //可忽略
 };
 
 exports.default = setting;
